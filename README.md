@@ -1,7 +1,7 @@
 #  DreamSim: Just Imagine to create Game !!
 
 
-[![Powered by Gemini](https://img.shields.io/badge/AI-Gemini%201.5-blue)](https://deepmind.google/technologies/gemini/)
+[![Powered by Gemini Pro](https://img.shields.io/badge/AI-Gemini--Pro--Latest-blue)](https://deepmind.google/technologies/gemini/)
 [![Built With Pygame](https://img.shields.io/badge/Engine-Pygame-yellow)](https://www.pygame.org/)
 
 **DreamSim** is an autonomous multi-agent system that creates playable mini-games from a your imagination. It designs the rules, generates procedural art, writes the Python code, and debugs itself.
