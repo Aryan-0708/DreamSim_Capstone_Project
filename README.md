@@ -68,3 +68,6 @@ Feel free to open issues or submit PRs. Ideas and improvements are welcome!
 
  Inspiration
 DreamSim was built to explore whether a single sentence can become a fully playable game—turns out, it
+
+
+The demo video of project is also uploaded here with name "DreamSim_Project.mp4"
