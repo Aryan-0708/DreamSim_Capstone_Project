@@ -23,7 +23,6 @@ DreamSim uses a **4-Agent Pipeline** to simulate a game studio:
 ##  Quick Start (Run Locally)
 
 ### 1. Installation
-```bash
 git clone https://github.com/Aryan-0708/DreamSim_Capstone_Project.git
 cd DreamSim_Capstone_Project
 pip install -r requirements.txt
@@ -34,8 +33,7 @@ Create a file named .env in the root folder and add your Google API Key:
 GOOGLE_API_KEY=YOUT_API_KEY
 
 3. Run
-bash
-Copy code
+
 python main.py
 Enter a prompt like:
 
